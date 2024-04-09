@@ -1,0 +1,7 @@
+/Users/divyshek/Documents/Backend/project/product-service/src/main/java/com/project/productservice/ProductServiceApplication.java
+/Users/divyshek/Documents/Backend/project/product-service/src/main/java/com/project/productservice/controller/ProductController.java
+/Users/divyshek/Documents/Backend/project/product-service/src/main/java/com/project/productservice/dto/ProductRequest.java
+/Users/divyshek/Documents/Backend/project/product-service/src/main/java/com/project/productservice/dto/ProductResponse.java
+/Users/divyshek/Documents/Backend/project/product-service/src/main/java/com/project/productservice/model/Product.java
+/Users/divyshek/Documents/Backend/project/product-service/src/main/java/com/project/productservice/repository/ProductRepository.java
+/Users/divyshek/Documents/Backend/project/product-service/src/main/java/com/project/productservice/service/ProductService.java
